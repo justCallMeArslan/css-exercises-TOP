@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+#divTwo {
+color: rgba(0, 0, 255, 0.947);
+font-size: 36px;
+}
+
+#divFour {
+    background-color: rgb(144, 238, 144);
+    font-weight: bold;
+
+}
+
+.paragraph {
+    background-color: rgb(247, 121, 140);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.font-size {
+    font-size: 24px;
+}
